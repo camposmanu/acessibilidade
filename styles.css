@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #28ebba;
+    --laranja-claro: #28ebeb;
  }
 
 body {
@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #4ccfd8;
+    color: #ce3794;
     font-weight: 600;
 }
 
